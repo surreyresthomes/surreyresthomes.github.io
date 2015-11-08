@@ -5,3 +5,13 @@ section h3.section-subheading {
 section#contact {
     background-color: rgba(69, 134, 148, 0.3);
 }
+
+.timeline>li .timeline-image {
+    border: none;
+    background-color: #FFFFFF;
+}
+
+.navbar-default .navbar-brand {
+    font-family: sans-serif;
+    color: #DEDDB4;
+}
